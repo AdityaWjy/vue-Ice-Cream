@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_kuliner"]=self["webpackChunkvue_kuliner"]||[]).push([[443],{9879:function(u,e,l){l.r(e);var n,k,r=l(1001),s={},t=(0,r.Z)(s,n,k,!1,null,null,null);e["default"]=t.exports}}]);
+//# sourceMappingURL=about.19fb0310.js.map
